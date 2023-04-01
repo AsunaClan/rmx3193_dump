@@ -1,0 +1,16 @@
+/my_engineering/build.prop 12
+/my_engineering/etc/NOTICE.xml.gz 14
+/my_engineering/etc/extension/feature_com.android.settings.xml 16
+/my_engineering/etc/extension/feature_com.coloros.oppomultiapp.xml 17
+/my_engineering/etc/extension/feature_com.oppo.ota.xml 18
+/my_engineering/etc/extension/feature_com.oppo.powermonitor.xml 19
+/my_engineering/etc/permissions/com.oplus.network.common.features.xml 21
+/my_engineering/etc/permissions/my_engineering_common_features.xml 22
+/my_engineering/etc/permissions/my_engineering_common_permissions.xml 22
+/my_engineering/etc/permissions/my_engineering_common_privapp_permissions.xml 22
+/my_engineering/etc/permissions/my_engineering_confidential_features.xml 22
+/my_engineering/etc/permissions/my_engineering_confidential_permissions.xml 22
+/my_engineering/etc/permissions/my_engineering_confidential_privapp_permissions.xml 22
+/my_engineering/etc/permissions/oplus.feature.android.xml 23
+/my_engineering/etc/sysconfig/my_engineering_common_sysconfig.xml 25
+/my_engineering/etc/sysconfig/my_engineering_confidential_sysconfig.xml 26

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!-- ad region support feature -->
+    <app_feature name="com.realme.linkurl.report_earphone_info_server_url" args="String:https://iot-in-ota.realme.com/api/user/device/report"/>
+</extend_features>

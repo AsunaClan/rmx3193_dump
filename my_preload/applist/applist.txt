@@ -1,0 +1,10 @@
+com.amazon.mp3:com.amazon.mp3.apk::false
+in.mohalla.video:in.mohalla.video.apk:pre_install.appsflyer:false
+com.amazon.avod.thirdpartyclient:com.amazon.avod.thirdpartyclient.apk::false
+com.eterno:com.eterno.apk:dailyhunt_preburn_oppo.txt:false
+com.snapchat.android:Snapchat_11.6.2.66.apk:snap_appchannel.txt:false
+com.eterno.shortvideos:com.eterno.shortvideos.apk:pre_install.appsflyer:false
+com.realme.link:com.realme.link.apk::false
+com.booking:com.booking.apk:.booking.data.aid:false
+in.amazon.mShop.android.shopping:AmazonShopping_Oppo_Android_20.6_32bit.apk::false
+com.linkedin.android:LinkedIn::true

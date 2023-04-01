@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!-- ad region support feature -->
+    <app_feature name="com.coloros.bootreg_glan_agreements_network_server_url" args="String:https://glance.com/eula"/>
+    <app_feature name="com.coloros.bootreg_glan_privacy_policy_network_server_url" args="String:https://glance.com/privacy-policy"/>
+    <!-- ad region Branch support feature -->
+    <app_feature name="com.coloros.bootreg_branch_agreements_network_server_url" args="String:https://branch.io/discovery-policies/#privacy-what-information-does-branch-collect-from-the-discovery-services"/>
+    <app_feature name="com.coloros.bootreg_branch_privacy_policy_network_server_url" args="String:https://branch.io/discovery-policies/privacy-policy/"/>
+</extend_features>

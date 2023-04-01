@@ -1,0 +1,115 @@
+/my_product/app/OppoDiracService/OppoDiracService.apk 22-59
+/my_product/build.prop 60-61
+/my_product/decouping_wallpaper/common/inlay_wallpaper1.png 64-159
+/my_product/decouping_wallpaper/common/inlay_wallpaper2.png 160-529
+/my_product/decouping_wallpaper/common/inlay_wallpaper3.png 530-818
+/my_product/decouping_wallpaper/common/inlay_wallpaper4.png 819-1130
+/my_product/decouping_wallpaper/common/inlay_wallpaper6.png 1131-1454
+/my_product/decouping_wallpaper/common/inlay_wallpaper7.jpg 1455-1777
+/my_product/decouping_wallpaper/common/inlay_wallpaper8.jpg 1778-1849
+/my_product/decouping_wallpaper/common/inlay_wallpaper9.png 1850-2165
+/my_product/decouping_wallpaper/common/inlay_wallpaper_id.png 2166-2267
+/my_product/decouping_wallpaper/default/oppo_default_wallpaper.png 64-159
+/my_product/decouping_wallpaper/default/oppo_default_wallpaper_lock.png 64-159
+/my_product/decouping_wallpaper/default/preview_0.png 2269-2277
+/my_product/decouping_wallpaper/default/preview_0_en.png 2278-2279
+/my_product/decouping_wallpaper/default/preview_1.png 2280-2328
+/my_product/decouping_wallpaper/default/preview_1_en.png 2329-2336
+/my_product/decouping_wallpaper/default/thumb.png 2337-2348
+/my_product/decouping_wallpaper/default/thumb_en.png 2349-2350
+/my_product/decouping_wallpaper/wallpaper_info.xml 2351
+/my_product/etc/20767/build.prop 2354
+/my_product/etc/HBMNoiseTable 2355
+/my_product/etc/NOTICE.xml.gz 2356
+/my_product/etc/camera/calibrationCfg.xml 2358
+/my_product/etc/camera/engineer_camera_config 2359-2363
+/my_product/etc/camera/frontDualCalibrationCfg.xml 2364
+/my_product/etc/camera/frontDualInputParam.xml 2365
+/my_product/etc/camera/inputparam.xml 2365
+/my_product/etc/config/app_v2.xml 2367
+/my_product/etc/engineermode/aging_setting_new 2369
+/my_product/etc/engineermode/engineer_config_list.xml 2370-2371
+/my_product/etc/engineermode/engineer_order_list.xml 2372-2377
+/my_product/etc/engineermode/engineer_order_list_jp.xml 2372 2378-2381
+/my_product/etc/engineermode/features/engineermode_featureoptions.xml 2383
+/my_product/etc/engineermode/modeltest/modeltest10_list.xml 2385
+/my_product/etc/engineermode/modeltest/modeltest11_list.xml 2386
+/my_product/etc/engineermode/modeltest/modeltest12_list.xml 2387
+/my_product/etc/engineermode/modeltest/modeltest13_list.xml 2388
+/my_product/etc/engineermode/modeltest/modeltest14_list.xml 2389
+/my_product/etc/engineermode/modeltest/modeltest15_list.xml 2390
+/my_product/etc/engineermode/modeltest/modeltest18_list.xml 2391
+/my_product/etc/engineermode/modeltest/modeltest19_list.xml 2392
+/my_product/etc/engineermode/modeltest/modeltest1_list.xml 2393
+/my_product/etc/engineermode/modeltest/modeltest2_list.xml 2394
+/my_product/etc/engineermode/modeltest/modeltest3_list.xml 2395
+/my_product/etc/engineermode/modeltest/modeltest4_list.xml 2396
+/my_product/etc/engineermode/modeltest/modeltest5_list.xml 2397
+/my_product/etc/engineermode/modeltest/modeltest6_list.xml 2398
+/my_product/etc/engineermode/modeltest/modeltest7_list.xml 2399
+/my_product/etc/engineermode/modeltest/modeltest8_list.xml 2400
+/my_product/etc/engineermode/modeltest/screen_component_test_list.xml 2401
+/my_product/etc/engineermode/modeltest/screen_unit_test_list.xml 2402
+/my_product/etc/engineermode/modeltest/small_middle_frame_test_list.xml 2403
+/my_product/etc/engineermode/sys_secrecy_switch_list.xml 2404-2406
+/my_product/etc/engineermode/wireless_configs 2407
+/my_product/etc/extension/appfeature_liteos.xml 2409
+/my_product/etc/extension/feature_com.android.settings.xml 2410
+/my_product/etc/extension/feature_com.coloros.oppoguardelf.xml 2411
+/my_product/etc/permissions/com.oplus.biometrics_config.xml 2413
+/my_product/etc/permissions/com.oplus.features_config.xml 2414
+/my_product/etc/permissions/com.oplus.fingerprint_config.xml 2415
+/my_product/etc/permissions/com.oplus.network.features.xml 2416
+/my_product/etc/permissions/com.oplus.product.connectivity.common.features.xml 2417
+/my_product/etc/permissions/com.oplus.product.connectivity.features.xml 2418
+/my_product/etc/permissions/com.oppo.feature.ktv.xml 2419
+/my_product/etc/permissions/com.oppo.features.os.xml 2420
+/my_product/etc/permissions/com.oppo.features.xml 2421
+/my_product/etc/permissions/com.oppo.features_allnet_common_20767.xml 2422
+/my_product/etc/permissions/com.oppo.features_allnet_multimedia_20767.xml 2423
+/my_product/etc/permissions/com.oppo.features_dirac.xml 2424
+/my_product/etc/permissions/com.oppo.features_display.xml 2425
+/my_product/etc/permissions/com.oppo.features_expCommon_20767.xml 2426
+/my_product/etc/permissions/com.oppo.features_secrecy.xml 2427
+/my_product/etc/permissions/my_product_common_features.xml 2428
+/my_product/etc/permissions/my_product_common_permissions.xml 2428
+/my_product/etc/permissions/my_product_common_privapp_permissions.xml 2429
+/my_product/etc/permissions/oplus.feature.os.xml 2430
+/my_product/etc/permissions/oplus.product.feature_ktv.xml 2431
+/my_product/etc/permissions/oplus.product.feature_multimedia_unique.xml 2432
+/my_product/etc/permissions/oplus.product.feature_os_unique.xml 2433
+/my_product/etc/permissions/oplus.product.feature_wfd.xml 2434
+/my_product/etc/permissions/oplus.product.features_dirac_v2.xml 2435
+/my_product/etc/permissions/oplus.product.features_multimedia_common.xml 2436
+/my_product/etc/power_profile/power_monitor_config.xml 2438
+/my_product/etc/power_profile/power_profile.xml 2439-2441
+/my_product/etc/sar_config.xml 2442-2446
+/my_product/etc/sysconfig/my_product_common_sysconfig.xml 2448
+/my_product/etc/temperature_profile/sys_high_temp_protect_realme_20767.xml 2450
+/my_product/etc/temperature_profile/sys_thermal_control_config.xml 2451-2462
+/my_product/lib/oppoex/libOplusDualHeadPhoneEx.so 2465-2466
+/my_product/lib64/oppoex/libOplusDualHeadPhoneEx.so 2469-2471
+/my_product/media/bootanimation/bootanimation.zip 2474-2554 2539 2555-2759 2486 2760 2762-2780
+/my_product/media/bootanimation/rbootanimation.zip 2781-2931
+/my_product/oppo/prerom_tempres/temp_res 2934-2969
+/my_product/overlay/CarrierConfigOverlay.20767.apk 2971-2976
+/my_product/overlay/CellBroadcastReceiverModuleOverlay.apk 2977-3382
+/my_product/overlay/CellBroadcastServiceModuleOverlay.apk 3383-3385
+/my_product/overlay/MultimediaOverlay.20767.product.apk 3386-3389
+/my_product/overlay/NetworkStackOverlay.apk 3390-3392
+/my_product/overlay/OplusWifiResource.apk 3393-3396
+/my_product/overlay/SystemUIFingerprintRes_CCYH/SystemUIFingerprintRes_CCYH.apk 3398-4450 0 0 0 0 0 0 0 4451 0 4452-4622 4622-4623 4622 4625 4622 4622 4626 4622 4627 4622 4622 4628 4622 4629-4630 4622 4631 4622 4622 4632 4622 4633-4640 0 0 0 0 0 0 0 4641 0 4642-4805 4622 4806-4808 4622 4809 4622 4622 4810 4622 4811 4622 4622 4812 4622 4813 4622 4622 4814 4622 4622 4815 4622 4816 4622 4622 4817 4622 4818-4841
+/my_product/overlay/SystemUIFingerprintRes_JHSY/SystemUIFingerprintRes_JHSY.apk 4843-5047 0 0 0 0 0 0 0 5048 0 0 5049-5113 4622 5114 4622 5116-5117 4622 5118 4622 5119 4622 5120 4622 5121 4622 5122 4622 5123-5129 0 0 0 0 0 0 0 5130 0 0 5131-5204 4622 4622 5205 4622 5206 4622 4622 5207 4622 4622 5208-5209 4622 4622 5210 4622 5211 4622 4622 5212 4622 5213 4622 4622 5214 4622 5215-5228
+/my_product/overlay/SystemUIFingerprintRes_JSLZ/SystemUIFingerprintRes_JSLZ.apk 5230-6525 0 0 0 0 0 0 6526 0 0 6527-6676 0 0 0 0 0 0 0 6677 0 0 6678 6680-6876
+/my_product/overlay/SystemUIFingerprintRes_LGSY/SystemUIFingerprintRes_LGSY.apk 6878-7102 0 0 0 0 0 0 0 7103 0 7104-7208 4622 7209 7211-7214 4622 4622 7215-7220 4622 7221 4622 7222 4622 7223 4622 7224 4622 7225 4622 7226 4622 7227 4622 7228-7235 0 0 0 0 0 0 0 7236 0 7237-7255 4622 7256-7343 4622 7344-7353 4622 4622 7354 4622 7355-7356 4622 7357 4622 7358 4622 4622 7359 4622 7360-7361 4622 7362 4622 7363-7370 4622 7371-7372 4622 7373 4622 4622 7374 4622 7375 4622 4622 7376 4622 7377 4622 4622 7378 4622 7379-7394
+/my_product/overlay/SystemUIFingerprintRes_NLGS/SystemUIFingerprintRes_NLGS.apk 7396-7723 0 0 0 0 0 0 0 7724 0 7725-7817 4622 7818 7820-7821 4622 7822 4622 7823 4622 7824 4622 7825 4622 7826 4622 7827 4622 7828 4622 7829-7836 0 0 0 0 0 0 0 7837 0 7838-7947 4622 7948-7950 4622 7951-7952 4622 7953 4622 7954 4622 4622 7955 4622 7956 4622 4622 7957 4622 7958 4622 4622 7959 4622 7960 4622 4622 7961-7976
+/my_product/overlay/SystemUIFingerprintRes_TYJW/SystemUIFingerprintRes_TYJW.apk 7978-8269 0 0 0 0 0 0 0 8270 0 8271-8333 4622 8334 4622 8336 4622 8337-8339 4622 8340 4622 8341 4622 8342 4622 8343 4622 8344 4622 8345-8351 0 0 0 0 0 0 0 8352 0 8353-8424 4622 4622 8425 4622 8426 4622 4622 8427 4622 4622 8428 4622 8429-8431 4622 8432 4622 4622 8433 4622 8434 4622 4622 8435 4622 8436 4622 4622 8437-8450
+/my_product/overlay/SystemUIFingerprintRes_XKLC/SystemUIFingerprintRes_XKLC.apk 8452-9000 0 0 0 0 0 0 0 9001 0 0 9002-9125 4622 9126 4622 9128 4622 9129 4622 9130 4622 9131 6670-6671 9132-9136 0 0 0 0 0 0 0 6677 0 0 9137-9284 4622 9285 4622 4622 9286 4622 9287 4622 4622 9288 4622 9289 4622 4622 9290 4622 9291-9307
+/my_product/overlay/framework_res_overlay_ZERO_TOUCH.20767.apk 9308-9310
+/my_product/priv-app/DiracAudioControlService/DiracAudioControlService.apk 9313-9433
+/my_product/vendor/etc/oppo_app_scale_list.xml 9436-9439
+/my_product/vendor/etc/oppo_display_perf_list.xml 9440-9454
+/my_product/vendor/etc/oppo_rc_bottom.png 9455-9459
+/my_product/vendor/etc/oppo_rc_left.png 9460-9461 2554 2539 9462-9464
+/my_product/vendor/etc/oppo_rc_right.png 9465-9466 2554 2539 9467-9469
+/my_product/vendor/etc/oppo_rc_top.png 9470-9471 9457-9458 9472-9473

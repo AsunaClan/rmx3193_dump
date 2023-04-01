@@ -1,0 +1,11 @@
+system/system/apex/com.android.vndk.current.apex
+system/system/app/OppoCamera/OppoCamera.apk
+system/system/system_ext/priv-app/Settings/Settings.apk
+vendor/etc/camera/license.lic
+my_preload/del-app/Even_20761_Snapchat/Snapchat_11.6.2.66.apk
+my_preload/del-app/in.mohalla.video/in.mohalla.video.apk
+my_stock/priv-app/OppoGallery2/OppoGallery2.apk
+my_heytap/app/WebViewGoogle/WebViewGoogle.apk
+my_heytap/priv-app/GmsCore/GmsCore.apk
+my_heytap/priv-app/Velvet/Velvet.apk
+my_region/app/Browser/Browser.apk

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!-- ad region support feature -->
+    <app_feature name="com.oppo.launcher.ad_region" args="String:IN"/>
+    <app_feature name="com.oppo.launcher.ad_support" args="String:more"/>
+    <app_feature name="com.android.launcher.ad_support" args="String:more"/>
+</extend_features>

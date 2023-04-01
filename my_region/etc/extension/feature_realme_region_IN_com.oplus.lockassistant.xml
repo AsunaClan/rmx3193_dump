@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <app_feature name="com.oplus.lockassistant.lockcard_server_url_realme" args="String:https://in-ilockcardf.realme.com/post/"/>
+    <app_feature name="com.oplus.lockassistant.server_access_force_free_flavor_one" />
+    <app_feature name="com.oplus.lockassistant.fk_upgrade_plan_info_url" args="String:http://www.flipkart.com/pages/fsup-tnc"/>
+    <app_feature name="com.oplus.lockassistant.fk_upgrade_plan_info" args="String:http://www.flipkart.com/pages/fsup-tnc"/>
+
+    <!-- lock assistant support feature -->
+    <app_feature name="com.oplus.lockassistant.lockcard_server_url" args="String:https://in-ilockcardf.realme.com/post/"/>
+</extend_features>
